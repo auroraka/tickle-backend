@@ -1,3 +1,7 @@
 # Tickle
 
-Tickle is a image web server written by rust
+Tickle is an image sharing web server written by Rust
+
+## Run
+
+`cargo run`
